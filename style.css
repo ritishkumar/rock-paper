@@ -1,0 +1,33 @@
+body {
+  background-color: #a7e1a6;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+div {
+  background-color: rgb(254, 254, 254);
+  margin-top: 150px;
+  margin-left: 350px;
+  justify-content: center;
+  height: 200px;
+  width: 50%;
+  border: 2px solid olive;
+  box-shadow: 2px 8px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+p {
+  font-size: 20px;
+}
+button {
+  height: 30px;
+  width: 100px;
+  font-size: 16px;
+  border: none;
+  background-color: aqua;
+  margin-right: 15px;
+  font-weight: bold;
+}
+div h1 {
+  text-align: center;
+  color: red;
+}
