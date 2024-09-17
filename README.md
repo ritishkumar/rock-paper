@@ -1,1 +1,1 @@
-# rock-paper Game
+# Rock-Paper Game
